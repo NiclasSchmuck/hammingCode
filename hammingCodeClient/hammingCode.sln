@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hammingCodeClient", "hammingCodeClient\hammingCodeClient.csproj", "{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "hammingCodeServer", "hammingCodeServer\hammingCodeServer.mdproj", "{1F3179F5-D54E-4543-A38C-21D28490F61D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11A07490-FB06-4EEC-90CA-03AAA77F270F}"
+	ProjectSection(SolutionItems) = preProject
+		Makefile = Makefile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}.Release|anycpu.Build.0 = Release|anycpu
+		{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}.Default|Any CPU.ActiveCfg = Debug|anycpu
+		{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}.Default|Any CPU.Build.0 = Debug|anycpu
+		{1F3179F5-D54E-4543-A38C-21D28490F61D}.Debug|anycpu.ActiveCfg = Default|Any CPU
+		{1F3179F5-D54E-4543-A38C-21D28490F61D}.Debug|anycpu.Build.0 = Default|Any CPU
+		{1F3179F5-D54E-4543-A38C-21D28490F61D}.Release|anycpu.ActiveCfg = Default|Any CPU
+		{1F3179F5-D54E-4543-A38C-21D28490F61D}.Release|anycpu.Build.0 = Default|Any CPU
+		{1F3179F5-D54E-4543-A38C-21D28490F61D}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{1F3179F5-D54E-4543-A38C-21D28490F61D}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal

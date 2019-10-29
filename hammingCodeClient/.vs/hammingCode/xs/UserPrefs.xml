@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E257C956-8A6C-407B-9F75-86BF2DCD1FC4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hammingCodeClient/Makefile.txt">
+    <Files>
+      <File FileName="hammingCodeClient/Program.cs" Line="18" Column="42" />
+      <File FileName="hammingCodeClient/manager.cs" Line="1" Column="1" />
+      <File FileName="hammingCodeServer/decode.sh" Line="35" Column="41" />
+      <File FileName="hammingCodeClient/Makefile.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hammingCode" expanded="True">
+            <Node name="hammingCodeClient" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Makefile.txt" selected="True" />
+            </Node>
+            <Node name="hammingCodeServer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hammingCodeClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hammingCodeServer FirstBuild="True" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/niclasschmuck/Projects/hammingCodeClient/hammingCodeClient/bin/Debug/hammingCodeClient.exe
+/Users/niclasschmuck/Projects/hammingCodeClient/hammingCodeClient/bin/Debug/hammingCodeClient.pdb
+/Users/niclasschmuck/Projects/hammingCodeClient/hammingCodeClient/obj/Debug/hammingCodeClient.csprojAssemblyReference.cache
+/Users/niclasschmuck/Projects/hammingCodeClient/hammingCodeClient/obj/Debug/hammingCodeClient.exe
+/Users/niclasschmuck/Projects/hammingCodeClient/hammingCodeClient/obj/Debug/hammingCodeClient.pdb
